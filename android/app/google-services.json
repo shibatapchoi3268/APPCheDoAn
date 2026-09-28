@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774148144876",
+    "project_id": "chedoanapp",
+    "storage_bucket": "chedoanapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774148144876:android:b5c2a9972fe8757346efc9",
+        "android_client_info": {
+          "package_name": "com.example.appchedoan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvzNSbyu_hBcNDz6uTRzdOAT-FPpO6sSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
